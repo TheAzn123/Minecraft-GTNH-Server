@@ -1,9 +1,9 @@
 ::Pulls from current repository
 echo Pulling from main
-git origin main pull
+git pull origin main
 
 ::Run server
-call startserver-java9.bat
+start startserver-java9.bat
 
 ::When server closes, cd to current directory and disk
 cd /d "%~dp0"
