@@ -1,70 +1,106 @@
-[08:55:59] [Server thread/INFO]: Starting minecraft server version 1.7.10
-[08:56:52] [Server thread/INFO]: Loading properties
-[08:56:52] [Server thread/INFO]: Default game type: SURVIVAL
-[08:56:52] [Server thread/INFO]: Generating keypair
-[08:56:52] [Server thread/INFO]: Starting Minecraft server on *:25565
-[08:58:45] [Server thread/INFO]: Preparing level "World"
-[08:58:48] [Server thread/INFO]: Preparing start region for level 0
-[08:58:49] [Server thread/INFO]: Preparing spawn area: 48%
-[08:58:49] [Server thread/INFO]: Done (4.686s)! For help, type "help" or "?"
-[08:59:26] [Server thread/INFO]: Reloaded default quest database
-[08:59:38] [Server thread/INFO]: Unknown command. Try /help for a list of commands
-[09:01:18] [Server thread/INFO]: Unknown command. Try /help for a list of commands
-[09:01:21] [Server thread/INFO]: Stopping the server
-[09:01:21] [Server thread/INFO]: Stopping server
-[09:01:21] [Server thread/INFO]: Saving players
-[09:01:21] [Server thread/INFO]: Saving worlds
-[09:01:21] [Server thread/INFO]: Saving chunks for level 'World'/Overworld
-[09:01:21] [Server thread/INFO]: Saving chunks for level 'World'/Nether
-[09:01:21] [Server thread/INFO]: Saving chunks for level 'World'/Seth
-[09:01:21] [Server thread/INFO]: Saving chunks for level 'World'/Horus
-[09:01:21] [Server thread/INFO]: Saving chunks for level 'World'/Anubis
-[09:01:21] [Server thread/INFO]: Saving chunks for level 'World'/Maahes
-[09:01:21] [Server thread/INFO]: Saving chunks for level 'World'/Neper
-[09:01:21] [Server thread/INFO]: Saving chunks for level 'World'/Miranda
-[09:01:21] [Server thread/INFO]: Saving chunks for level 'World'/T Ceti E
-[09:01:21] [Server thread/INFO]: Saving chunks for level 'World'/Vega B
-[09:01:21] [Server thread/INFO]: Saving chunks for level 'World'/Haumea
-[09:01:21] [Server thread/INFO]: Saving chunks for level 'World'/Barnarda F
-[09:01:21] [Server thread/INFO]: Saving chunks for level 'World'/Barnarda E
-[09:01:21] [Server thread/INFO]: Saving chunks for level 'World'/Outer Lands
-[09:01:21] [Server thread/INFO]: Saving chunks for level 'World'/Saturn
-[09:01:21] [Server thread/INFO]: Saving chunks for level 'World'/Neptune
-[09:01:21] [Server thread/INFO]: Saving chunks for level 'World'/Jupiter
-[09:01:21] [Server thread/INFO]: Saving chunks for level 'World'/Mirror
-[09:01:21] [Server thread/INFO]: Saving chunks for level 'World'/Pocket Plane
-[09:01:21] [Server thread/INFO]: Saving chunks for level 'World'/Ross128b
-[09:01:21] [Server thread/INFO]: Saving chunks for level 'World'/Ross128ba
-[09:01:21] [Server thread/INFO]: Saving chunks for level 'World'/Bedrock
-[09:01:21] [Server thread/INFO]: Saving chunks for level 'World'/Torment
-[09:01:21] [Server thread/INFO]: Saving chunks for level 'World'/Spirit World
-[09:01:21] [Server thread/INFO]: Saving chunks for level 'World'/Uranus
-[09:01:21] [Server thread/INFO]: Saving chunks for level 'World'/The Outer Lands
-[09:01:21] [Server thread/INFO]: Saving chunks for level 'World'/Pluto
-[09:01:21] [Server thread/INFO]: Saving chunks for level 'World'/Triton
-[09:01:21] [Server thread/INFO]: Saving chunks for level 'World'/Proteus
-[09:01:21] [Server thread/INFO]: Saving chunks for level 'World'/Oberon
-[09:01:21] [Server thread/INFO]: Saving chunks for level 'World'/Callisto
-[09:01:21] [Server thread/INFO]: Saving chunks for level 'World'/Titan
-[09:01:21] [Server thread/INFO]: Saving chunks for level 'World'/Ganymede
-[09:01:21] [Server thread/INFO]: Saving chunks for level 'World'/Ceres
-[09:01:21] [Server thread/INFO]: Saving chunks for level 'World'/Enceladus
-[09:01:21] [Server thread/INFO]: Saving chunks for level 'World'/Deimos
-[09:01:21] [Server thread/INFO]: Saving chunks for level 'World'/Venus
-[09:01:21] [Server thread/INFO]: Saving chunks for level 'World'/Phobos
-[09:01:21] [Server thread/INFO]: Saving chunks for level 'World'/Mercury
-[09:01:21] [Server thread/INFO]: Saving chunks for level 'World'/dimensionDarkWorld
-[09:01:21] [Server thread/INFO]: Saving chunks for level 'World'/Io
-[09:01:21] [Server thread/INFO]: Saving chunks for level 'World'/Europa
-[09:01:21] [Server thread/INFO]: Saving chunks for level 'World'/Kuiper Belt
-[09:01:21] [Server thread/INFO]: Saving chunks for level 'World'/Barnarda C
-[09:01:21] [Server thread/INFO]: Saving chunks for level 'World'/α Centauri Bb
-[09:01:21] [Server thread/INFO]: Saving chunks for level 'World'/Asteroids
-[09:01:21] [Server thread/INFO]: Saving chunks for level 'World'/Mars
-[09:01:21] [Server thread/INFO]: Saving chunks for level 'World'/Moon
-[09:01:21] [Server thread/INFO]: Saving chunks for level 'World'/Makemake
-[09:01:21] [Server thread/INFO]: Saving chunks for level 'World'/The Last Millenium
-[09:01:21] [Server thread/INFO]: Saving chunks for level 'World'/Twilight Forest
-[09:01:21] [Server thread/INFO]: Saving chunks for level 'World'/Underdark
-[09:01:21] [Server thread/INFO]: Saving chunks for level 'World'/SpectreWorld
-[09:01:21] [Server thread/INFO]: Saving chunks for level 'World'/Mehen Belt
+[00:18:28] [User Authenticator #37/INFO]: UUID of player MrAzn is 2f955fb6-7475-413b-8849-305d42e5f115
+[00:18:29] [Server thread/INFO]: MrAzn[/72.199.245.12:50147] logged in with entity id 2838199 at (116.25605076363385, 72.875, -1583.7492838682872)
+[00:18:29] [Server thread/INFO]: MrAzn joined the game
+[00:19:04] [User Authenticator #38/INFO]: UUID of player kachigguh is 446ff6d9-7904-43f6-a04b-d43736188c4a
+[00:19:05] [Server thread/INFO]: kachigguh[/68.8.65.59:60720] logged in with entity id 2839147 at (244.78830158095266, 76.0, -1545.8296741976674)
+[00:19:05] [Server thread/INFO]: kachigguh joined the game
+[00:28:23] [Server thread/INFO]: MrAzn lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[00:28:23] [Server thread/INFO]: MrAzn left the game
+[00:28:46] [User Authenticator #39/INFO]: UUID of player YungDeliverer is b352acc3-397d-49db-b32f-6686a1dc58dd
+[00:28:48] [Server thread/INFO]: YungDeliverer[/206.170.63.86:63130] logged in with entity id 2855281 at (982.4909689620833, 45.0, 597.9954355843468)
+[00:28:48] [Server thread/INFO]: YungDeliverer joined the game
+[00:29:54] [Server thread/INFO]: <YungDeliverer> ummm
+[00:30:39] [Server thread/INFO]: YungDeliverer lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: An established connection was aborted by the software in your host machine], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[00:30:39] [Server thread/INFO]: YungDeliverer left the game
+[00:33:20] [Server thread/INFO]: kachigguh lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[00:33:20] [Server thread/INFO]: kachigguh left the game
+[00:33:35] [User Authenticator #40/INFO]: UUID of player kachigguh is 446ff6d9-7904-43f6-a04b-d43736188c4a
+[00:33:36] [Server thread/INFO]: kachigguh[/68.8.65.59:60769] logged in with entity id 2860714 at (240.0175722951094, 77.0, -1544.064117748525)
+[00:33:36] [Server thread/INFO]: kachigguh joined the game
+[00:34:05] [Server thread/INFO]: kachigguh lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[00:34:05] [Server thread/INFO]: kachigguh left the game
+[00:34:26] [User Authenticator #41/INFO]: UUID of player kachigguh is 446ff6d9-7904-43f6-a04b-d43736188c4a
+[00:34:27] [Server thread/INFO]: kachigguh[/68.8.65.59:60778] logged in with entity id 2861318 at (218.32363166188287, 78.0, -1530.5585435064227)
+[00:34:27] [Server thread/INFO]: kachigguh joined the game
+[00:34:57] [User Authenticator #42/INFO]: UUID of player YungDeliverer is b352acc3-397d-49db-b32f-6686a1dc58dd
+[00:34:59] [Server thread/INFO]: YungDeliverer[/206.170.63.86:61612] logged in with entity id 2862420 at (984.4941013270331, 45.0, 600.4532448185415)
+[00:34:59] [Server thread/INFO]: YungDeliverer joined the game
+[00:36:09] [Server thread/INFO]: YungDeliverer was slain by Tough Spider
+[00:36:11] [Server thread/WARN]: Fetching addPacket for removed entity
+[00:55:17] [Server thread/INFO]: kachigguh lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[00:55:17] [Server thread/INFO]: kachigguh left the game
+[00:57:47] [User Authenticator #43/INFO]: UUID of player kachigguh is 446ff6d9-7904-43f6-a04b-d43736188c4a
+[00:57:48] [Server thread/INFO]: kachigguh[/68.8.65.59:60815] logged in with entity id 2920560 at (239.5, 76.0, -1539.5)
+[00:57:48] [Server thread/INFO]: kachigguh joined the game
+[01:04:28] [Server thread/INFO]: YungDeliverer has just earned the achievement [Buried secrets]
+[01:04:38] [Server thread/INFO]: YungDeliverer has just earned the achievement [We need more flags!]
+[01:14:06] [Server thread/INFO]: YungDeliverer lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[01:14:06] [Server thread/INFO]: YungDeliverer left the game
+[01:38:28] [Server thread/INFO]: There are 1/20 players online:
+[01:38:28] [Server thread/INFO]: kachigguh
+[02:08:55] [Server thread/INFO]: There are 1/20 players online:
+[02:08:55] [Server thread/INFO]: kachigguh
+[02:08:56] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[02:08:56] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[02:17:17] [Server thread/INFO]: There are 1/20 players online:
+[02:17:17] [Server thread/INFO]: kachigguh
+[02:18:40] [Server thread/INFO]: kachigguh lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[02:18:40] [Server thread/INFO]: kachigguh left the game
+[02:18:43] [Server thread/INFO]: Stopping the server
+[02:18:43] [Server thread/INFO]: Stopping server
+[02:18:43] [Server thread/INFO]: Saving players
+[02:18:43] [Server thread/INFO]: Saving worlds
+[02:18:43] [Server thread/INFO]: Saving chunks for level 'World'/Overworld
+[02:18:43] [Server thread/INFO]: Saving chunks for level 'World'/Nether
+[02:18:43] [Server thread/INFO]: Saving chunks for level 'World'/Seth
+[02:18:43] [Server thread/INFO]: Saving chunks for level 'World'/Horus
+[02:18:43] [Server thread/INFO]: Saving chunks for level 'World'/Anubis
+[02:18:43] [Server thread/INFO]: Saving chunks for level 'World'/Maahes
+[02:18:43] [Server thread/INFO]: Saving chunks for level 'World'/Neper
+[02:18:43] [Server thread/INFO]: Saving chunks for level 'World'/Miranda
+[02:18:43] [Server thread/INFO]: Saving chunks for level 'World'/T Ceti E
+[02:18:43] [Server thread/INFO]: Saving chunks for level 'World'/Vega B
+[02:18:43] [Server thread/INFO]: Saving chunks for level 'World'/Haumea
+[02:18:43] [Server thread/INFO]: Saving chunks for level 'World'/Barnarda F
+[02:18:43] [Server thread/INFO]: Saving chunks for level 'World'/Barnarda E
+[02:18:43] [Server thread/INFO]: Saving chunks for level 'World'/Outer Lands
+[02:18:43] [Server thread/INFO]: Saving chunks for level 'World'/Saturn
+[02:18:43] [Server thread/INFO]: Saving chunks for level 'World'/Neptune
+[02:18:43] [Server thread/INFO]: Saving chunks for level 'World'/Jupiter
+[02:18:43] [Server thread/INFO]: Saving chunks for level 'World'/Mirror
+[02:18:43] [Server thread/INFO]: Saving chunks for level 'World'/Pocket Plane
+[02:18:43] [Server thread/INFO]: Saving chunks for level 'World'/Ross128b
+[02:18:43] [Server thread/INFO]: Saving chunks for level 'World'/Ross128ba
+[02:18:43] [Server thread/INFO]: Saving chunks for level 'World'/Bedrock
+[02:18:43] [Server thread/INFO]: Saving chunks for level 'World'/Torment
+[02:18:43] [Server thread/INFO]: Saving chunks for level 'World'/Spirit World
+[02:18:43] [Server thread/INFO]: Saving chunks for level 'World'/Uranus
+[02:18:43] [Server thread/INFO]: Saving chunks for level 'World'/The Outer Lands
+[02:18:43] [Server thread/INFO]: Saving chunks for level 'World'/Pluto
+[02:18:43] [Server thread/INFO]: Saving chunks for level 'World'/Triton
+[02:18:43] [Server thread/INFO]: Saving chunks for level 'World'/Proteus
+[02:18:43] [Server thread/INFO]: Saving chunks for level 'World'/Oberon
+[02:18:43] [Server thread/INFO]: Saving chunks for level 'World'/Callisto
+[02:18:43] [Server thread/INFO]: Saving chunks for level 'World'/Titan
+[02:18:43] [Server thread/INFO]: Saving chunks for level 'World'/Ganymede
+[02:18:43] [Server thread/INFO]: Saving chunks for level 'World'/Ceres
+[02:18:43] [Server thread/INFO]: Saving chunks for level 'World'/Enceladus
+[02:18:43] [Server thread/INFO]: Saving chunks for level 'World'/Deimos
+[02:18:43] [Server thread/INFO]: Saving chunks for level 'World'/Venus
+[02:18:43] [Server thread/INFO]: Saving chunks for level 'World'/Phobos
+[02:18:43] [Server thread/INFO]: Saving chunks for level 'World'/Mercury
+[02:18:43] [Server thread/INFO]: Saving chunks for level 'World'/dimensionDarkWorld
+[02:18:43] [Server thread/INFO]: Saving chunks for level 'World'/Io
+[02:18:43] [Server thread/INFO]: Saving chunks for level 'World'/Europa
+[02:18:43] [Server thread/INFO]: Saving chunks for level 'World'/Kuiper Belt
+[02:18:43] [Server thread/INFO]: Saving chunks for level 'World'/Barnarda C
+[02:18:43] [Server thread/INFO]: Saving chunks for level 'World'/α Centauri Bb
+[02:18:43] [Server thread/INFO]: Saving chunks for level 'World'/Asteroids
+[02:18:43] [Server thread/INFO]: Saving chunks for level 'World'/Mars
+[02:18:43] [Server thread/INFO]: Saving chunks for level 'World'/Moon
+[02:18:43] [Server thread/INFO]: Saving chunks for level 'World'/Makemake
+[02:18:43] [Server thread/INFO]: Saving chunks for level 'World'/The Last Millenium
+[02:18:43] [Server thread/INFO]: Saving chunks for level 'World'/Twilight Forest
+[02:18:43] [Server thread/INFO]: Saving chunks for level 'World'/Underdark
+[02:18:43] [Server thread/INFO]: Saving chunks for level 'World'/SpectreWorld
+[02:18:43] [Server thread/INFO]: Saving chunks for level 'World'/Mehen Belt
