@@ -1,125 +1,69 @@
-[00:00:59] [Server thread/INFO]: <MrAzn> Cultists..
-[00:01:48] [Server thread/INFO]: <MrAzn> wish me luck
-[00:02:21] [Server thread/WARN]: Wrong location! EntityArrow['arrow'/480790, l='World', x=-16.12, y=81.52, z=-989.81] (at -2, -62 instead of -1, -62)
-[00:02:32] [Server thread/WARN]: Wrong location! EntityArrow['arrow'/481379, l='World', x=-16.24, y=78.52, z=-996.57] (at -2, -63 instead of -1, -63)
-[00:05:12] [Server thread/INFO]: <MrAzn> So the cultists
-[00:05:16] [Server thread/INFO]: <MrAzn> Are pretty strong
-[00:05:21] [Server thread/INFO]: <MrAzn> lighting, ghast shots, debuffs
-[00:05:40] [Server thread/INFO]: <MrAzn> I killed one and ran away but they despawn after a while, didnt drop anything unless it blew up
-[00:08:47] [Server thread/INFO]: <kachigguh> ty
-[00:09:31] [Server thread/INFO]: <kachigguh> swag
-[00:12:31] [User Authenticator #10/INFO]: UUID of player PlayboiJudy is 2ba7a5f9-12eb-43e8-a60e-e49f4c384c05
-[00:12:32] [Server thread/INFO]: PlayboiJudy[/68.8.29.226:61523] logged in with entity id 506400 at (135.06588810542456, 65.0, -1588.7834739781283)
-[00:12:32] [Server thread/INFO]: PlayboiJudy joined the game
-[00:12:42] [Server thread/INFO]: <kachigguh> plug
-[00:12:43] [Server thread/INFO]: <PlayboiJudy> bello
-[00:13:27] [Server thread/INFO]: <PlayboiJudy> looks nice
-[00:13:36] [Server thread/INFO]: <PlayboiJudy> want cherry saplings?
-[00:14:31] [Server thread/INFO]: <PlayboiJudy> :OOOOO
-[00:14:47] [Server thread/INFO]: <PlayboiJudy> ur hype
-[00:14:55] [Server thread/INFO]: <MrAzn> ->Kachigga
-[00:21:07] [Server thread/INFO]: <PlayboiJudy> magentic iron rod?
-[00:21:20] [Server thread/INFO]: <PlayboiJudy> ily
-[00:21:27] [Server thread/INFO]: <PlayboiJudy> i wanna take you away from all this
-[00:21:49] [Server thread/INFO]: <MrAzn> :3
-[00:23:11] [Server thread/INFO]: <PlayboiJudy> okay so basically
-[00:23:18] [Server thread/INFO]: <PlayboiJudy> you put the ore you want to find in the wand
-[00:23:27] [Server thread/INFO]: <PlayboiJudy> and it has a small 2d radius
-[00:23:32] [Server thread/INFO]: <PlayboiJudy> but y level goes 60
-[00:23:42] [Server thread/INFO]: <PlayboiJudy> so itll be nice for ore chunks
-[00:23:47] [Server thread/INFO]: <MrAzn> ^_^
-[00:23:49] [Server thread/INFO]: <PlayboiJudy> do you have a redstone ore
-[00:24:15] [Server thread/INFO]: <MrAzn> Im boutta make supreme pizza
-[00:24:21] [Server thread/INFO]: <MrAzn> Liam has some
-[00:24:34] [Server thread/INFO]: <kachigguh> how much u need
-[00:24:38] [Server thread/INFO]: <PlayboiJudy> could i perhaps have one redstone ore to put in my lil wand :3
-[00:25:01] [Server thread/INFO]: <kachigguh> yes
-[00:25:05] [Server thread/INFO]: <PlayboiJudy> ily
-[00:25:47] [Server thread/INFO]: <PlayboiJudy> hai :3
-[00:26:45] [Server thread/INFO]: <MrAzn> Anyone happen to have 2 stainless steels?
-[00:26:55] [Server thread/INFO]: <PlayboiJudy> idk how this shit works
-[00:27:50] [Server thread/INFO]: <PlayboiJudy> wait liam you got redstone ore tho?
-[00:28:05] [Server thread/INFO]: <kachigguh> found a vein
-[00:28:14] [Server thread/INFO]: <PlayboiJudy> i think i need the ore block
-[00:28:23] [Server thread/INFO]: <kachigguh> i got the ore block too
-[00:28:24] [Server thread/INFO]: <PlayboiJudy> i think its locating the redstone in your home
-[00:28:32] [Server thread/INFO]: <PlayboiJudy> one of those if you could spare
-[00:28:36] [Server thread/INFO]: <kachigguh> wait
-[00:28:41] [Server thread/INFO]: <kachigguh> theres a redstone vein here
-[00:28:47] [Server thread/INFO]: <PlayboiJudy> is that so
-[00:29:06] [Server thread/INFO]: <kachigguh> zzz
-[00:29:09] [Server thread/INFO]: <PlayboiJudy> ty
-[00:29:18] [Server thread/INFO]: <kachigguh> the vein is like 2 chunks east
-[00:29:31] [Server thread/INFO]: <PlayboiJudy> idk how this shit workd
-[00:30:14] [Server thread/INFO]: <PlayboiJudy> wait i got it
-[00:30:29] [Server thread/INFO]: <PlayboiJudy> it shows the vein in the map overlay if you enable ore veins
-[00:31:31] [Server thread/INFO]: <PlayboiJudy> time to play league with the coworkers
-[00:31:34] [Server thread/INFO]: <PlayboiJudy> love yall
-[00:31:40] [Server thread/INFO]: <MrAzn> bye bye
-[00:31:48] [Server thread/INFO]: <kachigguh> <3
-[00:31:50] [Server thread/INFO]: PlayboiJudy lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[00:31:50] [Server thread/INFO]: PlayboiJudy left the game
-[00:38:11] [Server thread/INFO]: <kachigguh> alright im off gn
-[00:38:15] [Server thread/INFO]: <MrAzn> Cya gn
-[00:38:16] [Server thread/INFO]: kachigguh lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[00:38:16] [Server thread/INFO]: kachigguh left the game
-[00:47:52] [Server thread/INFO]: MrAzn lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[00:47:52] [Server thread/INFO]: MrAzn left the game
-[00:47:59] [Server thread/INFO]: Stopping the server
-[00:47:59] [Server thread/INFO]: Stopping server
-[00:47:59] [Server thread/INFO]: Saving players
-[00:47:59] [Server thread/INFO]: Saving worlds
-[00:47:59] [Server thread/INFO]: Saving chunks for level 'World'/Overworld
-[00:47:59] [Server thread/INFO]: Saving chunks for level 'World'/Nether
-[00:47:59] [Server thread/INFO]: Saving chunks for level 'World'/Seth
-[00:47:59] [Server thread/INFO]: Saving chunks for level 'World'/Horus
-[00:47:59] [Server thread/INFO]: Saving chunks for level 'World'/Anubis
-[00:47:59] [Server thread/INFO]: Saving chunks for level 'World'/Maahes
-[00:47:59] [Server thread/INFO]: Saving chunks for level 'World'/Neper
-[00:47:59] [Server thread/INFO]: Saving chunks for level 'World'/Miranda
-[00:47:59] [Server thread/INFO]: Saving chunks for level 'World'/T Ceti E
-[00:47:59] [Server thread/INFO]: Saving chunks for level 'World'/Vega B
-[00:47:59] [Server thread/INFO]: Saving chunks for level 'World'/Haumea
-[00:47:59] [Server thread/INFO]: Saving chunks for level 'World'/Barnarda F
-[00:47:59] [Server thread/INFO]: Saving chunks for level 'World'/Barnarda E
-[00:47:59] [Server thread/INFO]: Saving chunks for level 'World'/Outer Lands
-[00:47:59] [Server thread/INFO]: Saving chunks for level 'World'/Saturn
-[00:47:59] [Server thread/INFO]: Saving chunks for level 'World'/Neptune
-[00:47:59] [Server thread/INFO]: Saving chunks for level 'World'/Jupiter
-[00:47:59] [Server thread/INFO]: Saving chunks for level 'World'/Mirror
-[00:47:59] [Server thread/INFO]: Saving chunks for level 'World'/Pocket Plane
-[00:47:59] [Server thread/INFO]: Saving chunks for level 'World'/Ross128b
-[00:47:59] [Server thread/INFO]: Saving chunks for level 'World'/Ross128ba
-[00:47:59] [Server thread/INFO]: Saving chunks for level 'World'/Bedrock
-[00:47:59] [Server thread/INFO]: Saving chunks for level 'World'/Torment
-[00:47:59] [Server thread/INFO]: Saving chunks for level 'World'/Spirit World
-[00:47:59] [Server thread/INFO]: Saving chunks for level 'World'/Uranus
-[00:47:59] [Server thread/INFO]: Saving chunks for level 'World'/The Outer Lands
-[00:47:59] [Server thread/INFO]: Saving chunks for level 'World'/Pluto
-[00:47:59] [Server thread/INFO]: Saving chunks for level 'World'/Triton
-[00:47:59] [Server thread/INFO]: Saving chunks for level 'World'/Proteus
-[00:47:59] [Server thread/INFO]: Saving chunks for level 'World'/Oberon
-[00:47:59] [Server thread/INFO]: Saving chunks for level 'World'/Callisto
-[00:47:59] [Server thread/INFO]: Saving chunks for level 'World'/Titan
-[00:47:59] [Server thread/INFO]: Saving chunks for level 'World'/Ganymede
-[00:47:59] [Server thread/INFO]: Saving chunks for level 'World'/Ceres
-[00:47:59] [Server thread/INFO]: Saving chunks for level 'World'/Enceladus
-[00:47:59] [Server thread/INFO]: Saving chunks for level 'World'/Deimos
-[00:47:59] [Server thread/INFO]: Saving chunks for level 'World'/Venus
-[00:47:59] [Server thread/INFO]: Saving chunks for level 'World'/Phobos
-[00:47:59] [Server thread/INFO]: Saving chunks for level 'World'/Mercury
-[00:47:59] [Server thread/INFO]: Saving chunks for level 'World'/dimensionDarkWorld
-[00:47:59] [Server thread/INFO]: Saving chunks for level 'World'/Io
-[00:47:59] [Server thread/INFO]: Saving chunks for level 'World'/Europa
-[00:47:59] [Server thread/INFO]: Saving chunks for level 'World'/Kuiper Belt
-[00:47:59] [Server thread/INFO]: Saving chunks for level 'World'/Barnarda C
-[00:47:59] [Server thread/INFO]: Saving chunks for level 'World'/α Centauri Bb
-[00:47:59] [Server thread/INFO]: Saving chunks for level 'World'/Asteroids
-[00:47:59] [Server thread/INFO]: Saving chunks for level 'World'/Mars
-[00:47:59] [Server thread/INFO]: Saving chunks for level 'World'/Moon
-[00:47:59] [Server thread/INFO]: Saving chunks for level 'World'/Makemake
-[00:47:59] [Server thread/INFO]: Saving chunks for level 'World'/The Last Millenium
-[00:47:59] [Server thread/INFO]: Saving chunks for level 'World'/Twilight Forest
-[00:47:59] [Server thread/INFO]: Saving chunks for level 'World'/Underdark
-[00:47:59] [Server thread/INFO]: Saving chunks for level 'World'/SpectreWorld
-[00:47:59] [Server thread/INFO]: Saving chunks for level 'World'/Mehen Belt
+[21:45:28] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[21:46:07] [Server thread/INFO]: Loading properties
+[21:46:07] [Server thread/INFO]: Default game type: SURVIVAL
+[21:46:07] [Server thread/INFO]: Generating keypair
+[21:46:07] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:47:39] [Server thread/INFO]: Preparing level "World"
+[21:47:41] [Server thread/INFO]: Preparing start region for level 0
+[21:47:42] [Server thread/INFO]: Preparing spawn area: 68%
+[21:47:42] [Server thread/INFO]: Done (3.682s)! For help, type "help" or "?"
+[21:47:47] [Server thread/INFO]: Reloaded default quest database
+[21:49:59] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[21:50:02] [Server thread/INFO]: Stopping the server
+[21:50:02] [Server thread/INFO]: Stopping server
+[21:50:02] [Server thread/INFO]: Saving players
+[21:50:02] [Server thread/INFO]: Saving worlds
+[21:50:02] [Server thread/INFO]: Saving chunks for level 'World'/Overworld
+[21:50:02] [Server thread/INFO]: Saving chunks for level 'World'/Nether
+[21:50:02] [Server thread/INFO]: Saving chunks for level 'World'/Seth
+[21:50:02] [Server thread/INFO]: Saving chunks for level 'World'/Horus
+[21:50:02] [Server thread/INFO]: Saving chunks for level 'World'/Anubis
+[21:50:02] [Server thread/INFO]: Saving chunks for level 'World'/Maahes
+[21:50:02] [Server thread/INFO]: Saving chunks for level 'World'/Neper
+[21:50:02] [Server thread/INFO]: Saving chunks for level 'World'/Miranda
+[21:50:02] [Server thread/INFO]: Saving chunks for level 'World'/T Ceti E
+[21:50:02] [Server thread/INFO]: Saving chunks for level 'World'/Vega B
+[21:50:02] [Server thread/INFO]: Saving chunks for level 'World'/Haumea
+[21:50:02] [Server thread/INFO]: Saving chunks for level 'World'/Barnarda F
+[21:50:02] [Server thread/INFO]: Saving chunks for level 'World'/Barnarda E
+[21:50:02] [Server thread/INFO]: Saving chunks for level 'World'/Outer Lands
+[21:50:02] [Server thread/INFO]: Saving chunks for level 'World'/Saturn
+[21:50:02] [Server thread/INFO]: Saving chunks for level 'World'/Neptune
+[21:50:02] [Server thread/INFO]: Saving chunks for level 'World'/Jupiter
+[21:50:02] [Server thread/INFO]: Saving chunks for level 'World'/Mirror
+[21:50:02] [Server thread/INFO]: Saving chunks for level 'World'/Pocket Plane
+[21:50:02] [Server thread/INFO]: Saving chunks for level 'World'/Ross128b
+[21:50:02] [Server thread/INFO]: Saving chunks for level 'World'/Ross128ba
+[21:50:02] [Server thread/INFO]: Saving chunks for level 'World'/Bedrock
+[21:50:02] [Server thread/INFO]: Saving chunks for level 'World'/Torment
+[21:50:02] [Server thread/INFO]: Saving chunks for level 'World'/Spirit World
+[21:50:02] [Server thread/INFO]: Saving chunks for level 'World'/Uranus
+[21:50:02] [Server thread/INFO]: Saving chunks for level 'World'/The Outer Lands
+[21:50:02] [Server thread/INFO]: Saving chunks for level 'World'/Pluto
+[21:50:02] [Server thread/INFO]: Saving chunks for level 'World'/Triton
+[21:50:02] [Server thread/INFO]: Saving chunks for level 'World'/Proteus
+[21:50:02] [Server thread/INFO]: Saving chunks for level 'World'/Oberon
+[21:50:02] [Server thread/INFO]: Saving chunks for level 'World'/Callisto
+[21:50:02] [Server thread/INFO]: Saving chunks for level 'World'/Titan
+[21:50:02] [Server thread/INFO]: Saving chunks for level 'World'/Ganymede
+[21:50:02] [Server thread/INFO]: Saving chunks for level 'World'/Ceres
+[21:50:02] [Server thread/INFO]: Saving chunks for level 'World'/Enceladus
+[21:50:02] [Server thread/INFO]: Saving chunks for level 'World'/Deimos
+[21:50:03] [Server thread/INFO]: Saving chunks for level 'World'/Venus
+[21:50:03] [Server thread/INFO]: Saving chunks for level 'World'/Phobos
+[21:50:03] [Server thread/INFO]: Saving chunks for level 'World'/Mercury
+[21:50:03] [Server thread/INFO]: Saving chunks for level 'World'/dimensionDarkWorld
+[21:50:03] [Server thread/INFO]: Saving chunks for level 'World'/Io
+[21:50:03] [Server thread/INFO]: Saving chunks for level 'World'/Europa
+[21:50:03] [Server thread/INFO]: Saving chunks for level 'World'/Kuiper Belt
+[21:50:03] [Server thread/INFO]: Saving chunks for level 'World'/Barnarda C
+[21:50:03] [Server thread/INFO]: Saving chunks for level 'World'/α Centauri Bb
+[21:50:03] [Server thread/INFO]: Saving chunks for level 'World'/Asteroids
+[21:50:03] [Server thread/INFO]: Saving chunks for level 'World'/Mars
+[21:50:03] [Server thread/INFO]: Saving chunks for level 'World'/Moon
+[21:50:03] [Server thread/INFO]: Saving chunks for level 'World'/Makemake
+[21:50:03] [Server thread/INFO]: Saving chunks for level 'World'/The Last Millenium
+[21:50:03] [Server thread/INFO]: Saving chunks for level 'World'/Twilight Forest
+[21:50:03] [Server thread/INFO]: Saving chunks for level 'World'/Underdark
+[21:50:03] [Server thread/INFO]: Saving chunks for level 'World'/SpectreWorld
+[21:50:03] [Server thread/INFO]: Saving chunks for level 'World'/Mehen Belt
