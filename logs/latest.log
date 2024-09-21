@@ -1,73 +1,252 @@
-[11:26:57] [Server thread/INFO]: Starting minecraft server version 1.7.10
-[11:27:47] [Server thread/INFO]: Loading properties
-[11:27:47] [Server thread/INFO]: Default game type: SURVIVAL
-[11:27:47] [Server thread/INFO]: Generating keypair
-[11:27:47] [Server thread/INFO]: Starting Minecraft server on *:25565
-[11:29:40] [Server thread/INFO]: Preparing level "World"
-[11:29:43] [Server thread/INFO]: Preparing start region for level 0
-[11:29:44] [Server thread/INFO]: Preparing spawn area: 37%
-[11:29:44] [Server thread/INFO]: Done (4.905s)! For help, type "help" or "?"
-[11:30:17] [Server thread/INFO]: Reloaded default quest database
-[12:08:45] [User Authenticator #1/INFO]: UUID of player MrAzn is 2f955fb6-7475-413b-8849-305d42e5f115
-[12:08:47] [Server thread/INFO]: MrAzn[/84.17.44.210:16668] logged in with entity id 1019 at (134.2396942987814, 71.0, -1581.1140556464163)
-[12:08:47] [Server thread/INFO]: MrAzn joined the game
-[12:09:44] [Server thread/INFO]: MrAzn lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
-[12:09:44] [Server thread/INFO]: MrAzn left the game
-[12:09:46] [Server thread/INFO]: Stopping the server
-[12:09:46] [Server thread/INFO]: Stopping server
-[12:09:46] [Server thread/INFO]: Saving players
-[12:09:46] [Server thread/INFO]: Saving worlds
-[12:09:46] [Server thread/INFO]: Saving chunks for level 'World'/Overworld
-[12:09:46] [Server thread/INFO]: Saving chunks for level 'World'/Nether
-[12:09:46] [Server thread/INFO]: Saving chunks for level 'World'/Seth
-[12:09:46] [Server thread/INFO]: Saving chunks for level 'World'/Horus
-[12:09:46] [Server thread/INFO]: Saving chunks for level 'World'/Anubis
-[12:09:46] [Server thread/INFO]: Saving chunks for level 'World'/Maahes
-[12:09:46] [Server thread/INFO]: Saving chunks for level 'World'/Neper
-[12:09:46] [Server thread/INFO]: Saving chunks for level 'World'/Miranda
-[12:09:46] [Server thread/INFO]: Saving chunks for level 'World'/T Ceti E
-[12:09:46] [Server thread/INFO]: Saving chunks for level 'World'/Vega B
-[12:09:46] [Server thread/INFO]: Saving chunks for level 'World'/Haumea
-[12:09:46] [Server thread/INFO]: Saving chunks for level 'World'/Barnarda F
-[12:09:46] [Server thread/INFO]: Saving chunks for level 'World'/Barnarda E
-[12:09:46] [Server thread/INFO]: Saving chunks for level 'World'/Outer Lands
-[12:09:46] [Server thread/INFO]: Saving chunks for level 'World'/Saturn
-[12:09:46] [Server thread/INFO]: Saving chunks for level 'World'/Neptune
-[12:09:46] [Server thread/INFO]: Saving chunks for level 'World'/Jupiter
-[12:09:46] [Server thread/INFO]: Saving chunks for level 'World'/Mirror
-[12:09:46] [Server thread/INFO]: Saving chunks for level 'World'/Pocket Plane
-[12:09:46] [Server thread/INFO]: Saving chunks for level 'World'/Ross128b
-[12:09:46] [Server thread/INFO]: Saving chunks for level 'World'/Ross128ba
-[12:09:46] [Server thread/INFO]: Saving chunks for level 'World'/Bedrock
-[12:09:46] [Server thread/INFO]: Saving chunks for level 'World'/Torment
-[12:09:46] [Server thread/INFO]: Saving chunks for level 'World'/Spirit World
-[12:09:46] [Server thread/INFO]: Saving chunks for level 'World'/Uranus
-[12:09:46] [Server thread/INFO]: Saving chunks for level 'World'/The Outer Lands
-[12:09:46] [Server thread/INFO]: Saving chunks for level 'World'/Pluto
-[12:09:46] [Server thread/INFO]: Saving chunks for level 'World'/Triton
-[12:09:46] [Server thread/INFO]: Saving chunks for level 'World'/Proteus
-[12:09:46] [Server thread/INFO]: Saving chunks for level 'World'/Oberon
-[12:09:46] [Server thread/INFO]: Saving chunks for level 'World'/Callisto
-[12:09:46] [Server thread/INFO]: Saving chunks for level 'World'/Titan
-[12:09:46] [Server thread/INFO]: Saving chunks for level 'World'/Ganymede
-[12:09:46] [Server thread/INFO]: Saving chunks for level 'World'/Ceres
-[12:09:46] [Server thread/INFO]: Saving chunks for level 'World'/Enceladus
-[12:09:46] [Server thread/INFO]: Saving chunks for level 'World'/Deimos
-[12:09:46] [Server thread/INFO]: Saving chunks for level 'World'/Venus
-[12:09:46] [Server thread/INFO]: Saving chunks for level 'World'/Phobos
-[12:09:46] [Server thread/INFO]: Saving chunks for level 'World'/Mercury
-[12:09:46] [Server thread/INFO]: Saving chunks for level 'World'/dimensionDarkWorld
-[12:09:46] [Server thread/INFO]: Saving chunks for level 'World'/Io
-[12:09:46] [Server thread/INFO]: Saving chunks for level 'World'/Europa
-[12:09:46] [Server thread/INFO]: Saving chunks for level 'World'/Kuiper Belt
-[12:09:46] [Server thread/INFO]: Saving chunks for level 'World'/Barnarda C
-[12:09:46] [Server thread/INFO]: Saving chunks for level 'World'/α Centauri Bb
-[12:09:46] [Server thread/INFO]: Saving chunks for level 'World'/Asteroids
-[12:09:46] [Server thread/INFO]: Saving chunks for level 'World'/Mars
-[12:09:46] [Server thread/INFO]: Saving chunks for level 'World'/Moon
-[12:09:46] [Server thread/INFO]: Saving chunks for level 'World'/Makemake
-[12:09:46] [Server thread/INFO]: Saving chunks for level 'World'/The Last Millenium
-[12:09:46] [Server thread/INFO]: Saving chunks for level 'World'/Twilight Forest
-[12:09:46] [Server thread/INFO]: Saving chunks for level 'World'/Underdark
-[12:09:46] [Server thread/INFO]: Saving chunks for level 'World'/SpectreWorld
-[12:09:46] [Server thread/INFO]: Saving chunks for level 'World'/Mehen Belt
+[12:11:35] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[12:12:24] [Server thread/INFO]: Loading properties
+[12:12:24] [Server thread/INFO]: Default game type: SURVIVAL
+[12:12:24] [Server thread/INFO]: Generating keypair
+[12:12:24] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:14:21] [Server thread/INFO]: Preparing level "World"
+[12:14:24] [Server thread/INFO]: Preparing start region for level 0
+[12:14:25] [Server thread/INFO]: Preparing spawn area: 48%
+[12:14:25] [Server thread/INFO]: Done (4.613s)! For help, type "help" or "?"
+[12:14:30] [Server thread/INFO]: Reloaded default quest database
+[12:15:35] [User Authenticator #1/INFO]: UUID of player MrAzn is 2f955fb6-7475-413b-8849-305d42e5f115
+[12:15:36] [Server thread/INFO]: MrAzn[/84.17.44.210:34454] logged in with entity id 1019 at (133.8967881506808, 71.0, -1583.4182011793027)
+[12:15:36] [Server thread/INFO]: MrAzn joined the game
+[13:06:49] [User Authenticator #2/INFO]: UUID of player PlayboiJudy is 2ba7a5f9-12eb-43e8-a60e-e49f4c384c05
+[13:06:50] [Server thread/INFO]: PlayboiJudy[/68.8.29.226:50912] logged in with entity id 82136 at (134.15742649789675, 65.0, -1585.2487369697194)
+[13:06:50] [Server thread/INFO]: PlayboiJudy joined the game
+[13:07:16] [Server thread/INFO]: <PlayboiJudy> hey
+[13:07:22] [Server thread/INFO]: <MrAzn> Oh I didnt notice you joined
+[13:10:52] [Server thread/INFO]: <MrAzn> I will be moving to the river bed and making something of my self... My home is your home neighbor :)
+[13:11:58] [Server thread/INFO]: <PlayboiJudy> youre always welcome at my place
+[13:12:15] [Server thread/INFO]: <MrAzn> I got us rubber trees
+[13:12:19] [Server thread/INFO]: <MrAzn> Going to tap them
+[13:13:15] [Server thread/INFO]: <MrAzn> So in the past did you use the smelter to make bronze?
+[13:13:21] [Server thread/INFO]: <MrAzn> Was it still a 3 to 1 ratio or was it higher than that
+[13:13:30] [Server thread/INFO]: <PlayboiJudy> no i crushed it into dust then combined the dust
+[13:13:35] [Server thread/INFO]: <MrAzn> Oh
+[13:13:39] [Server thread/INFO]: <PlayboiJudy> 3 to 1 made 1
+[13:13:47] [Server thread/INFO]: <PlayboiJudy> in the steam smelter 3 to 1 makes 2
+[13:13:57] [Server thread/INFO]: <MrAzn> In the quest book it said to use your smeltery, didnt know you could use the powder
+[13:14:13] [Server thread/INFO]: <PlayboiJudy> yeah you just mix copper and tin powder and it makes bronze powder
+[13:14:32] [Server thread/INFO]: <MrAzn> Thats crazy
+[13:14:48] [Server thread/INFO]: <MrAzn> Questbook isnt the most optimal solution at times Ig
+[13:14:56] [Server thread/INFO]: <MrAzn> Or it doesnt say whats the most optimal
+[13:18:28] [Server thread/INFO]: <MrAzn> Dude
+[13:18:34] [Server thread/INFO]: <MrAzn> This hole on the way to the old base
+[13:18:38] [Server thread/INFO]: <MrAzn> Has been the death of my horse 3 times
+[13:18:48] [Server thread/INFO]: <PlayboiJudy> plug it up
+[13:18:56] [Server thread/INFO]: <MrAzn> Ya I plugged up the lava this time
+[13:19:02] [Server thread/INFO]: <MrAzn> Lava is the one that kills my horse not the fall
+[13:20:52] [Server thread/INFO]: <PlayboiJudy> do you have more obsidian ingots
+[13:20:59] [Server thread/INFO]: <MrAzn> ya
+[13:21:09] [Server thread/INFO]: <PlayboiJudy> it actually takes a lot to repair a tool
+[13:21:23] [Server thread/INFO]: <MrAzn> Really? Isnt it just one ingot
+[13:21:26] [Server thread/INFO]: <PlayboiJudy> no
+[13:21:33] [Server thread/INFO]: <MrAzn> You should make a mattok
+[13:21:41] [Server thread/INFO]: <MrAzn> Its always been 1 ingot for me
+[13:23:00] [Server thread/INFO]: <MrAzn> woah
+[13:23:06] [Server thread/INFO]: <PlayboiJudy> ikr
+[13:23:49] [Server thread/INFO]: <MrAzn> wait thats crazy
+[13:23:52] [Server thread/INFO]: <PlayboiJudy> i know
+[13:24:19] [Server thread/INFO]: <MrAzn> Something had to have bugged out
+[13:24:47] [Server thread/INFO]: <MrAzn> that was around nine
+[13:24:47] [Server thread/INFO]: <PlayboiJudy> thanks
+[13:25:00] [Server thread/INFO]: <MrAzn> Ima make more lava
+[13:25:03] [Server thread/INFO]: <MrAzn> I mean buckets
+[13:31:08] [User Authenticator #3/INFO]: UUID of player YungDeliverer is b352acc3-397d-49db-b32f-6686a1dc58dd
+[13:31:10] [Server thread/INFO]: YungDeliverer[/76.238.232.7:52215] logged in with entity id 176278 at (834.1157604859753, 95.0, 615.5475097729659)
+[13:31:10] [Server thread/INFO]: YungDeliverer joined the game
+[13:31:22] [Server thread/INFO]: <MrAzn> Cadrael dropped a worlds tier list
+[13:31:23] [Server thread/INFO]: <MrAzn> B)
+[13:32:21] [Server thread/INFO]: <PlayboiJudy> can you sleep
+[13:32:25] [Server thread/INFO]: <YungDeliverer> yeah
+[13:33:35] [Server thread/INFO]: <MrAzn> Bin is the best top laner in the world O_O
+[13:33:51] [Server thread/INFO]: <YungDeliverer> ive never seen him beat zeus in lane
+[13:34:09] [Server thread/INFO]: <MrAzn> From the man cadrael himself.
+[13:34:16] [Server thread/INFO]: <MrAzn> pretty surprised
+[13:34:25] [Server thread/INFO]: <YungDeliverer> it is simply wrong
+[13:34:25] [Server thread/INFO]: MrAzn has just earned the achievement [Sticky Situation]
+[13:34:39] [Server thread/INFO]: <MrAzn> Why are tree taps
+[13:34:41] [Server thread/INFO]: <MrAzn> one use wtf
+[13:35:44] [Server thread/INFO]: <YungDeliverer> is wheat worth farming
+[13:35:46] [Server thread/INFO]: <MrAzn> Ya
+[13:35:47] [Server thread/INFO]: <YungDeliverer> other than for cows
+[13:35:58] [Server thread/INFO]: <MrAzn> You can make large veggie sandwhiches
+[13:35:59] [Server thread/INFO]: <MrAzn> foot longs
+[13:36:17] [Server thread/INFO]: <MrAzn> And then pork and steak large sandwiches
+[13:36:30] [Server thread/INFO]: <MrAzn> You need dough for a lot of filling foods
+[13:36:54] [Server thread/INFO]: <MrAzn> what happened to ze bronze
+[13:36:55] [Server thread/INFO]: <PlayboiJudy> i hate how slow the macerator is
+[13:36:58] [Server thread/INFO]: <PlayboiJudy> chest
+[13:37:09] [Server thread/INFO]: <MrAzn> make a steam grinder nathan
+[13:37:35] [Server thread/INFO]: <MrAzn> Its a 3x3 like a coke oven
+[13:37:40] [Server thread/INFO]: <MrAzn> Somethign something saw it on a wiki
+[13:38:00] [Server thread/INFO]: <PlayboiJudy> ty
+[13:38:13] [Server thread/WARN]: Fetching addPacket for removed entity
+[13:38:48] [Server thread/INFO]: <MrAzn> Peyz is the weakest link in geng O_o
+[13:39:02] [Server thread/INFO]: <YungDeliverer> hes a little meta dependant
+[13:39:11] [Server thread/INFO]: <YungDeliverer> but jinx is back so hes good
+[13:39:31] [Server thread/INFO]: <YungDeliverer> very good hyper carry adc player
+[13:39:40] [Server thread/INFO]: <YungDeliverer> mid util adc player
+[13:40:05] [Server thread/INFO]: <MrAzn> Canyon is the lead of the team o_O
+[13:40:18] [Server thread/INFO]: <MrAzn> Something something, he usually carries
+[13:40:45] [Server thread/INFO]: <YungDeliverer> yes cuz his macro is very good
+[13:41:59] [Server thread/INFO]: <MrAzn> Lehands macro is also good
+[13:42:01] [Server thread/INFO]: <MrAzn> Roaming etc
+[13:42:16] [Server thread/INFO]: <YungDeliverer> duh hes prob the best supp in the lck
+[13:42:58] [Server thread/INFO]: <YungDeliverer> whos sleeping
+[13:43:19] [Server thread/INFO]: <MrAzn> Doran can apparently carry his team to worlds
+[13:43:26] [Server thread/INFO]: <MrAzn> worlds final
+[13:43:50] [Server thread/INFO]: <YungDeliverer> thats if you ignore every worlds hes been in
+[13:45:37] [Server thread/INFO]: <MrAzn> Peanut is the best jgler in the tournament O_o!?!?!?!
+[13:45:47] [Server thread/INFO]: <YungDeliverer> if you ignore every worlds hes been in
+[13:46:08] [Server thread/INFO]: <YungDeliverer> he was a big reason why hle beat geng
+[13:46:22] [Server thread/INFO]: <YungDeliverer> but i like tarzan more
+[13:50:05] [Server thread/INFO]: <MrAzn> Jackeylove is the worst adc in the tournament !?!?!?
+[13:50:33] [Server thread/INFO]: <YungDeliverer> id rather have jackeylove than guma
+[13:50:41] [Server thread/INFO]: <MrAzn> no way
+[13:51:07] [Server thread/INFO]: <MrAzn> G2 top 8!?!
+[13:51:22] [Server thread/INFO]: <YungDeliverer> its cuz they're nastying in scrims
+[13:51:30] [Server thread/INFO]: <YungDeliverer> but they nasty in scrims every year
+[13:53:17] [Server thread/INFO]: <MrAzn> Be careful when digging down the ash sand nathan
+[13:53:19] [Server thread/INFO]: <MrAzn> it drops to lava
+[13:56:31] [Server thread/INFO]: <MrAzn> 100thieves is the worst team O_+O\
+[13:56:41] [Server thread/INFO]: <YungDeliverer> they shouldnt even be in worlds
+[13:59:59] [Server thread/INFO]: <MrAzn> Damwon held back by their mid jg!?!?!
+[14:00:16] [Server thread/INFO]: <YungDeliverer> their jg is a noob who only plays tanks
+[14:01:02] [Server thread/INFO]: <YungDeliverer> but its fine cuz they play around their adc to carry games
+[14:01:19] [Server thread/INFO]: <YungDeliverer> i have a problem with their support situation
+[14:03:07] [Server thread/INFO]: <MrAzn> DK top 4!?!
+[14:03:53] [Server thread/INFO]: <YungDeliverer> caedrel must hate t1
+[14:04:04] [Server thread/INFO]: <MrAzn> didnt get to that part yet
+[14:04:13] [Server thread/INFO]: <YungDeliverer> he also has to be a lng doubter
+[14:04:21] [Server thread/INFO]: <YungDeliverer> scout
+[14:04:29] [Server thread/INFO]: <YungDeliverer> 2nd best mid in the world
+[14:04:53] [Server thread/INFO]: <MrAzn> Right now the tier list 36 min in is
+[14:05:01] [Server thread/INFO]: <MrAzn> BLG GEN G HLE
+[14:05:02] [Server thread/INFO]: <YungDeliverer> STOP
+[14:05:02] [Server thread/INFO]: <MrAzn> TES
+[14:05:06] [Server thread/INFO]: <MrAzn> O SORRY
+[14:05:07] [Server thread/INFO]: <MrAzn> SORRY
+[14:05:09] [Server thread/INFO]: <YungDeliverer> im watching it
+[14:05:11] [Server thread/INFO]: <MrAzn> Mb
+[14:05:35] [Server thread/INFO]: <MrAzn> How far are you into it
+[14:05:39] [Server thread/INFO]: <YungDeliverer> 100t
+[14:06:09] [Server thread/INFO]: <PlayboiJudy> bbf done
+[14:06:18] [Server thread/INFO]: <MrAzn> Pretty poggers B)
+[14:08:16] [Server thread/INFO]: <YungDeliverer> how do you make a hammer
+[14:09:10] [Server thread/INFO]: <PlayboiJudy> steel is cooking in the furnace now
+[14:09:22] [Server thread/INFO]: <PlayboiJudy> two columns material one stick middle right chris
+[14:09:37] [Server thread/INFO]: YungDeliverer has just earned the achievement [More Tools]
+[14:10:39] [Server thread/INFO]: <MrAzn> There was a quest that gave redwood saplings
+[14:10:40] [Server thread/INFO]: <MrAzn> where is that
+[14:10:46] [Server thread/INFO]: <PlayboiJudy> idk
+[14:10:50] [Server thread/INFO]: <PlayboiJudy> try coins tab
+[14:12:42] [Server thread/INFO]: <PlayboiJudy> see my furnace jd
+[14:12:45] [Server thread/INFO]: PlayboiJudy has just earned the achievement [Steel]
+[14:12:47] [Server thread/INFO]: <MrAzn> Ye looks nice :)
+[14:12:54] [Server thread/INFO]: <MrAzn> Now make stainless steel >:)
+[14:13:01] [Server thread/INFO]: <PlayboiJudy> making steel first
+[14:13:04] [Server thread/INFO]: <MrAzn> You should make a hang glider
+[14:13:49] [Server thread/INFO]: <PlayboiJudy> make sure to keep this thing fed with coal
+[14:13:53] [Server thread/INFO]: <PlayboiJudy> its two coals per ingot
+[14:14:28] [Server thread/INFO]: <PlayboiJudy> k im gonna head to work
+[14:14:30] [Server thread/INFO]: <PlayboiJudy> see ya
+[14:14:33] [Server thread/INFO]: <MrAzn> Bye <3
+[14:14:37] [Server thread/INFO]: PlayboiJudy lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[14:14:37] [Server thread/INFO]: PlayboiJudy left the game
+[14:16:31] [Server thread/INFO]: <MrAzn> O wow
+[14:16:36] [Server thread/INFO]: <MrAzn> TLs jgler is interesting
+[14:18:02] [Server thread/INFO]: <MrAzn> APA is the goat in TL?!?
+[14:18:08] [Server thread/INFO]: <YungDeliverer> yes
+[14:18:14] [Server thread/INFO]: <YungDeliverer> not even close
+[14:18:22] [Server thread/INFO]: <MrAzn> Second coming of bjergsen!?!?
+[14:18:26] [Server thread/INFO]: <YungDeliverer> umti is so mid
+[14:18:36] [Server thread/INFO]: <YungDeliverer> when he was in the lck he was in one of the worst teams
+[14:20:18] [Server thread/INFO]: <MrAzn> Finally on to T!
+[14:20:19] [Server thread/INFO]: <MrAzn> T1
+[14:22:43] [Server thread/INFO]: <MrAzn> T1 top 8 B(
+[14:22:55] [Server thread/INFO]: <MrAzn> T1 not top 4 >:'(
+[14:24:54] [Server thread/INFO]: YungDeliverer has just earned the achievement [Crushed]
+[14:33:22] [Server thread/INFO]: YungDeliverer was slain by Dire Wolf
+[14:33:28] [Server thread/INFO]: <MrAzn> Damn I heard that thunder
+[14:34:06] [Server thread/INFO]: YungDeliverer has just earned the achievement [Clean]
+[14:44:17] [Server thread/INFO]: <YungDeliverer> where can i get clay
+[14:44:30] [Server thread/INFO]: <MrAzn> Near water
+[14:51:37] [Server thread/INFO]: MrAzn lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[14:51:37] [Server thread/INFO]: MrAzn left the game
+[14:52:19] [User Authenticator #4/INFO]: UUID of player MrAzn is 2f955fb6-7475-413b-8849-305d42e5f115
+[14:52:20] [Server thread/INFO]: MrAzn[/84.17.44.210:37604] logged in with entity id 477536 at (35.18758539206939, 64.0, -2160.7609475852264)
+[14:52:20] [Server thread/INFO]: MrAzn joined the game
+[14:52:21] [Server thread/WARN]: Fetching addPacket for removed entity
+[14:52:57] [Server thread/INFO]: <MrAzn> Duo in a bit?
+[14:53:02] [Server thread/INFO]: <YungDeliverer> sure
+[14:54:44] [Server thread/INFO]: <MrAzn> Has a western team beat T1 in the past 3 years?
+[14:54:55] [Server thread/INFO]: <YungDeliverer> no
+[14:55:03] [Server thread/INFO]: <YungDeliverer> g2 took them to game 5 in msi
+[14:55:15] [Server thread/INFO]: <YungDeliverer> TL took them to game 3 in a best of 3
+[14:55:37] [Server thread/INFO]: <MrAzn> Ye I knew about those games but I didnt know any other game where they came close to beating thjem
+[14:55:48] [Server thread/INFO]: <MrAzn> okay I didnt find any structures
+[14:55:52] [Server thread/INFO]: <MrAzn> hopping on league
+[14:55:53] [Server thread/INFO]: MrAzn lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[14:55:53] [Server thread/INFO]: MrAzn left the game
+[14:56:02] [Server thread/INFO]: YungDeliverer lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[14:56:02] [Server thread/INFO]: YungDeliverer left the game
+[14:56:04] [Server thread/INFO]: Stopping the server
+[14:56:04] [Server thread/INFO]: Stopping server
+[14:56:04] [Server thread/INFO]: Saving players
+[14:56:04] [Server thread/INFO]: Saving worlds
+[14:56:04] [Server thread/INFO]: Saving chunks for level 'World'/Overworld
+[14:56:04] [Server thread/INFO]: Saving chunks for level 'World'/Nether
+[14:56:04] [Server thread/INFO]: Saving chunks for level 'World'/Seth
+[14:56:04] [Server thread/INFO]: Saving chunks for level 'World'/Horus
+[14:56:04] [Server thread/INFO]: Saving chunks for level 'World'/Anubis
+[14:56:04] [Server thread/INFO]: Saving chunks for level 'World'/Maahes
+[14:56:04] [Server thread/INFO]: Saving chunks for level 'World'/Neper
+[14:56:04] [Server thread/INFO]: Saving chunks for level 'World'/Miranda
+[14:56:04] [Server thread/INFO]: Saving chunks for level 'World'/T Ceti E
+[14:56:04] [Server thread/INFO]: Saving chunks for level 'World'/Vega B
+[14:56:04] [Server thread/INFO]: Saving chunks for level 'World'/Haumea
+[14:56:04] [Server thread/INFO]: Saving chunks for level 'World'/Barnarda F
+[14:56:04] [Server thread/INFO]: Saving chunks for level 'World'/Barnarda E
+[14:56:04] [Server thread/INFO]: Saving chunks for level 'World'/Outer Lands
+[14:56:04] [Server thread/INFO]: Saving chunks for level 'World'/Saturn
+[14:56:04] [Server thread/INFO]: Saving chunks for level 'World'/Neptune
+[14:56:04] [Server thread/INFO]: Saving chunks for level 'World'/Jupiter
+[14:56:04] [Server thread/INFO]: Saving chunks for level 'World'/Mirror
+[14:56:04] [Server thread/INFO]: Saving chunks for level 'World'/Pocket Plane
+[14:56:04] [Server thread/INFO]: Saving chunks for level 'World'/Ross128b
+[14:56:04] [Server thread/INFO]: Saving chunks for level 'World'/Ross128ba
+[14:56:04] [Server thread/INFO]: Saving chunks for level 'World'/Bedrock
+[14:56:04] [Server thread/INFO]: Saving chunks for level 'World'/Torment
+[14:56:04] [Server thread/INFO]: Saving chunks for level 'World'/Spirit World
+[14:56:04] [Server thread/INFO]: Saving chunks for level 'World'/Uranus
+[14:56:04] [Server thread/INFO]: Saving chunks for level 'World'/The Outer Lands
+[14:56:04] [Server thread/INFO]: Saving chunks for level 'World'/Pluto
+[14:56:04] [Server thread/INFO]: Saving chunks for level 'World'/Triton
+[14:56:04] [Server thread/INFO]: Saving chunks for level 'World'/Proteus
+[14:56:04] [Server thread/INFO]: Saving chunks for level 'World'/Oberon
+[14:56:04] [Server thread/INFO]: Saving chunks for level 'World'/Callisto
+[14:56:04] [Server thread/INFO]: Saving chunks for level 'World'/Titan
+[14:56:04] [Server thread/INFO]: Saving chunks for level 'World'/Ganymede
+[14:56:04] [Server thread/INFO]: Saving chunks for level 'World'/Ceres
+[14:56:04] [Server thread/INFO]: Saving chunks for level 'World'/Enceladus
+[14:56:04] [Server thread/INFO]: Saving chunks for level 'World'/Deimos
+[14:56:04] [Server thread/INFO]: Saving chunks for level 'World'/Venus
+[14:56:04] [Server thread/INFO]: Saving chunks for level 'World'/Phobos
+[14:56:04] [Server thread/INFO]: Saving chunks for level 'World'/Mercury
+[14:56:04] [Server thread/INFO]: Saving chunks for level 'World'/dimensionDarkWorld
+[14:56:04] [Server thread/INFO]: Saving chunks for level 'World'/Io
+[14:56:04] [Server thread/INFO]: Saving chunks for level 'World'/Europa
+[14:56:04] [Server thread/INFO]: Saving chunks for level 'World'/Kuiper Belt
+[14:56:04] [Server thread/INFO]: Saving chunks for level 'World'/Barnarda C
+[14:56:04] [Server thread/INFO]: Saving chunks for level 'World'/α Centauri Bb
+[14:56:04] [Server thread/INFO]: Saving chunks for level 'World'/Asteroids
+[14:56:04] [Server thread/INFO]: Saving chunks for level 'World'/Mars
+[14:56:04] [Server thread/INFO]: Saving chunks for level 'World'/Moon
+[14:56:04] [Server thread/INFO]: Saving chunks for level 'World'/Makemake
+[14:56:04] [Server thread/INFO]: Saving chunks for level 'World'/The Last Millenium
+[14:56:04] [Server thread/INFO]: Saving chunks for level 'World'/Twilight Forest
+[14:56:04] [Server thread/INFO]: Saving chunks for level 'World'/Underdark
+[14:56:04] [Server thread/INFO]: Saving chunks for level 'World'/SpectreWorld
+[14:56:04] [Server thread/INFO]: Saving chunks for level 'World'/Mehen Belt
