@@ -2082,7 +2082,7 @@
 						"0:10": {
 							"data:11": [
 								0,
-								0,
+								100,
 								1,
 								1,
 								0
@@ -24916,7 +24916,7 @@
 							"data:11": [
 								0,
 								16,
-								0,
+								16,
 								16,
 								0
 							],
@@ -26951,17 +26951,25 @@
 		},
 		"1637:10": {
 			"questIDHigh:4": 0,
-			"completed:9": {},
+			"completed:9": {
+				"0:10": {
+					"claimed:1": 0,
+					"uuid:8": "2f955fb6-7475-413b-8849-305d42e5f115",
+					"timestamp:4": 1726903878013
+				}
+			},
 			"questIDLow:4": 483,
 			"tasks:9": {
 				"0:10": {
-					"completeUsers:9": {},
+					"completeUsers:9": {
+						"0:8": "2f955fb6-7475-413b-8849-305d42e5f115"
+					},
 					"userProgress:9": {
 						"0:10": {
 							"data:11": [
 								1,
-								0,
-								0
+								1,
+								1
 							],
 							"uuid:8": "2f955fb6-7475-413b-8849-305d42e5f115"
 						}
@@ -26970,8 +26978,17 @@
 					"taskID:8": "bq_standard:retrieval"
 				},
 				"1:10": {
-					"completeUsers:9": {},
-					"userProgress:9": {},
+					"completeUsers:9": {
+						"0:8": "2f955fb6-7475-413b-8849-305d42e5f115"
+					},
+					"userProgress:9": {
+						"0:10": {
+							"data:11": [
+								1
+							],
+							"uuid:8": "2f955fb6-7475-413b-8849-305d42e5f115"
+						}
+					},
 					"index:3": 2,
 					"taskID:8": "bq_standard:retrieval"
 				}
@@ -44502,7 +44519,18 @@
 			"tasks:9": {
 				"0:10": {
 					"completeUsers:9": {},
-					"userProgress:9": {},
+					"userProgress:9": {
+						"0:10": {
+							"data:11": [
+								0,
+								0,
+								0,
+								0,
+								4
+							],
+							"uuid:8": "2f955fb6-7475-413b-8849-305d42e5f115"
+						}
+					},
 					"index:3": 0,
 					"taskID:8": "bq_standard:optional_retrieval"
 				},
@@ -56533,7 +56561,14 @@
 				},
 				"3:10": {
 					"completeUsers:9": {},
-					"userProgress:9": {},
+					"userProgress:9": {
+						"0:10": {
+							"data:11": [
+								2
+							],
+							"uuid:8": "2f955fb6-7475-413b-8849-305d42e5f115"
+						}
+					},
 					"index:3": 3,
 					"taskID:8": "bq_standard:crafting"
 				}
