@@ -1,69 +1,296 @@
-[21:45:28] [Server thread/INFO]: Starting minecraft server version 1.7.10
-[21:46:07] [Server thread/INFO]: Loading properties
-[21:46:07] [Server thread/INFO]: Default game type: SURVIVAL
-[21:46:07] [Server thread/INFO]: Generating keypair
-[21:46:07] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:47:39] [Server thread/INFO]: Preparing level "World"
-[21:47:41] [Server thread/INFO]: Preparing start region for level 0
-[21:47:42] [Server thread/INFO]: Preparing spawn area: 68%
-[21:47:42] [Server thread/INFO]: Done (3.682s)! For help, type "help" or "?"
-[21:47:47] [Server thread/INFO]: Reloaded default quest database
-[21:49:59] [Server thread/INFO]: Unknown command. Try /help for a list of commands
-[21:50:02] [Server thread/INFO]: Stopping the server
-[21:50:02] [Server thread/INFO]: Stopping server
-[21:50:02] [Server thread/INFO]: Saving players
-[21:50:02] [Server thread/INFO]: Saving worlds
-[21:50:02] [Server thread/INFO]: Saving chunks for level 'World'/Overworld
-[21:50:02] [Server thread/INFO]: Saving chunks for level 'World'/Nether
-[21:50:02] [Server thread/INFO]: Saving chunks for level 'World'/Seth
-[21:50:02] [Server thread/INFO]: Saving chunks for level 'World'/Horus
-[21:50:02] [Server thread/INFO]: Saving chunks for level 'World'/Anubis
-[21:50:02] [Server thread/INFO]: Saving chunks for level 'World'/Maahes
-[21:50:02] [Server thread/INFO]: Saving chunks for level 'World'/Neper
-[21:50:02] [Server thread/INFO]: Saving chunks for level 'World'/Miranda
-[21:50:02] [Server thread/INFO]: Saving chunks for level 'World'/T Ceti E
-[21:50:02] [Server thread/INFO]: Saving chunks for level 'World'/Vega B
-[21:50:02] [Server thread/INFO]: Saving chunks for level 'World'/Haumea
-[21:50:02] [Server thread/INFO]: Saving chunks for level 'World'/Barnarda F
-[21:50:02] [Server thread/INFO]: Saving chunks for level 'World'/Barnarda E
-[21:50:02] [Server thread/INFO]: Saving chunks for level 'World'/Outer Lands
-[21:50:02] [Server thread/INFO]: Saving chunks for level 'World'/Saturn
-[21:50:02] [Server thread/INFO]: Saving chunks for level 'World'/Neptune
-[21:50:02] [Server thread/INFO]: Saving chunks for level 'World'/Jupiter
-[21:50:02] [Server thread/INFO]: Saving chunks for level 'World'/Mirror
-[21:50:02] [Server thread/INFO]: Saving chunks for level 'World'/Pocket Plane
-[21:50:02] [Server thread/INFO]: Saving chunks for level 'World'/Ross128b
-[21:50:02] [Server thread/INFO]: Saving chunks for level 'World'/Ross128ba
-[21:50:02] [Server thread/INFO]: Saving chunks for level 'World'/Bedrock
-[21:50:02] [Server thread/INFO]: Saving chunks for level 'World'/Torment
-[21:50:02] [Server thread/INFO]: Saving chunks for level 'World'/Spirit World
-[21:50:02] [Server thread/INFO]: Saving chunks for level 'World'/Uranus
-[21:50:02] [Server thread/INFO]: Saving chunks for level 'World'/The Outer Lands
-[21:50:02] [Server thread/INFO]: Saving chunks for level 'World'/Pluto
-[21:50:02] [Server thread/INFO]: Saving chunks for level 'World'/Triton
-[21:50:02] [Server thread/INFO]: Saving chunks for level 'World'/Proteus
-[21:50:02] [Server thread/INFO]: Saving chunks for level 'World'/Oberon
-[21:50:02] [Server thread/INFO]: Saving chunks for level 'World'/Callisto
-[21:50:02] [Server thread/INFO]: Saving chunks for level 'World'/Titan
-[21:50:02] [Server thread/INFO]: Saving chunks for level 'World'/Ganymede
-[21:50:02] [Server thread/INFO]: Saving chunks for level 'World'/Ceres
-[21:50:02] [Server thread/INFO]: Saving chunks for level 'World'/Enceladus
-[21:50:02] [Server thread/INFO]: Saving chunks for level 'World'/Deimos
-[21:50:03] [Server thread/INFO]: Saving chunks for level 'World'/Venus
-[21:50:03] [Server thread/INFO]: Saving chunks for level 'World'/Phobos
-[21:50:03] [Server thread/INFO]: Saving chunks for level 'World'/Mercury
-[21:50:03] [Server thread/INFO]: Saving chunks for level 'World'/dimensionDarkWorld
-[21:50:03] [Server thread/INFO]: Saving chunks for level 'World'/Io
-[21:50:03] [Server thread/INFO]: Saving chunks for level 'World'/Europa
-[21:50:03] [Server thread/INFO]: Saving chunks for level 'World'/Kuiper Belt
-[21:50:03] [Server thread/INFO]: Saving chunks for level 'World'/Barnarda C
-[21:50:03] [Server thread/INFO]: Saving chunks for level 'World'/α Centauri Bb
-[21:50:03] [Server thread/INFO]: Saving chunks for level 'World'/Asteroids
-[21:50:03] [Server thread/INFO]: Saving chunks for level 'World'/Mars
-[21:50:03] [Server thread/INFO]: Saving chunks for level 'World'/Moon
-[21:50:03] [Server thread/INFO]: Saving chunks for level 'World'/Makemake
-[21:50:03] [Server thread/INFO]: Saving chunks for level 'World'/The Last Millenium
-[21:50:03] [Server thread/INFO]: Saving chunks for level 'World'/Twilight Forest
-[21:50:03] [Server thread/INFO]: Saving chunks for level 'World'/Underdark
-[21:50:03] [Server thread/INFO]: Saving chunks for level 'World'/SpectreWorld
-[21:50:03] [Server thread/INFO]: Saving chunks for level 'World'/Mehen Belt
+[14:23:13] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[14:24:05] [Server thread/INFO]: Loading properties
+[14:24:05] [Server thread/INFO]: Default game type: SURVIVAL
+[14:24:05] [Server thread/INFO]: Generating keypair
+[14:24:05] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:26:11] [Server thread/INFO]: Preparing level "World"
+[14:26:13] [Server thread/INFO]: Preparing start region for level 0
+[14:26:14] [Server thread/INFO]: Preparing spawn area: 53%
+[14:26:15] [Server thread/INFO]: Done (4.412s)! For help, type "help" or "?"
+[14:26:47] [Server thread/INFO]: Reloaded default quest database
+[14:40:37] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[14:40:38] [Server thread/INFO]: There are 0/20 players online:
+[14:40:38] [Server thread/INFO]: 
+[14:40:43] [User Authenticator #1/INFO]: UUID of player MrAzn is 2f955fb6-7475-413b-8849-305d42e5f115
+[14:40:44] [Server thread/INFO]: MrAzn[/84.17.44.210:54092] logged in with entity id 1024 at (133.55392520684964, 71.0, -1583.497291656496)
+[14:40:44] [Server thread/INFO]: MrAzn joined the game
+[14:41:28] [Server thread/INFO]: MrAzn lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[14:41:28] [Server thread/INFO]: MrAzn left the game
+[14:42:26] [User Authenticator #2/INFO]: UUID of player MrAzn is 2f955fb6-7475-413b-8849-305d42e5f115
+[14:42:27] [Server thread/INFO]: MrAzn[/84.17.44.210:54780] logged in with entity id 1684 at (134.49382182675618, 70.875, -1578.8801926324402)
+[14:42:27] [Server thread/INFO]: MrAzn joined the game
+[15:53:37] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2639ms behind, skipping 52 tick(s)
+[16:42:48] [Server thread/INFO]: MrAzn lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[16:42:48] [Server thread/INFO]: MrAzn left the game
+[16:43:30] [User Authenticator #3/INFO]: UUID of player MrAzn is 2f955fb6-7475-413b-8849-305d42e5f115
+[16:43:31] [Server thread/INFO]: MrAzn[/84.17.44.210:14628] logged in with entity id 192196 at (319.6999989880791, 19.0, -1695.4952880741998)
+[16:43:31] [Server thread/INFO]: MrAzn joined the game
+[17:34:40] [User Authenticator #4/INFO]: UUID of player PlayboiJudy is 2ba7a5f9-12eb-43e8-a60e-e49f4c384c05
+[17:34:41] [Server thread/INFO]: PlayboiJudy[/68.8.29.226:63176] logged in with entity id 262092 at (232.80857401331247, 77.0, -1544.4925899757627)
+[17:34:41] [Server thread/INFO]: PlayboiJudy joined the game
+[17:34:42] [Server thread/WARN]: Fetching addPacket for removed entity
+[17:35:24] [Server thread/INFO]: <PlayboiJudy> hello
+[17:35:27] [Server thread/INFO]: <MrAzn> o what the
+[17:35:30] [Server thread/INFO]: <MrAzn> I didnt even notice you joined
+[17:35:38] [Server thread/INFO]: <MrAzn> crops grew
+[17:35:41] [Server thread/INFO]: <MrAzn> now I have 18 more berries
+[17:35:45] [Server thread/INFO]: <PlayboiJudy> nice
+[17:35:48] [Server thread/INFO]: <PlayboiJudy> those are like nuggets
+[17:35:55] [Server thread/INFO]: <MrAzn> I also got stacks
+[17:35:58] [Server thread/INFO]: <MrAzn> of copper and iron
+[17:36:03] [Server thread/INFO]: <PlayboiJudy> nice
+[17:36:10] [Server thread/INFO]: <MrAzn> can I get a kwissy wissy
+[17:36:21] [Server thread/INFO]: <PlayboiJudy> you took my drawer
+[17:36:29] [Server thread/INFO]: <MrAzn> ya for my kitchen tools
+[17:36:31] [Server thread/INFO]: <MrAzn> there wasnt anything on it
+[17:36:40] [Server thread/INFO]: <MrAzn> ^_^
+[17:36:40] [Server thread/INFO]: <PlayboiJudy> i logged out with the tools in my inv
+[17:36:43] [Server thread/INFO]: <PlayboiJudy> but its chill
+[17:36:46] [Server thread/INFO]: <MrAzn> oh
+[17:36:47] [Server thread/INFO]: <MrAzn> Sorry
+[17:36:48] [Server thread/INFO]: <PlayboiJudy> keep it -_-
+[17:37:05] [Server thread/INFO]: <PlayboiJudy> the tank is full of steam pog
+[17:37:09] [Server thread/INFO]: <MrAzn> pretty pog
+[17:37:18] [Server thread/INFO]: <MrAzn> should bring a chest down here for the fuel
+[17:37:21] [Server thread/INFO]: <PlayboiJudy> we will never have the problem of running out during process ever again
+[17:37:47] [Server thread/INFO]: <PlayboiJudy> do you know if we are able to replace tool parts
+[17:37:53] [Server thread/INFO]: <MrAzn> ya
+[17:37:56] [Server thread/INFO]: <MrAzn> it has to be fully repaired though
+[17:38:01] [Server thread/INFO]: <PlayboiJudy> o
+[17:39:21] [Server thread/INFO]: <PlayboiJudy> check out my new pick
+[17:39:44] [Server thread/INFO]: <MrAzn> ooh copper?
+[17:39:47] [Server thread/INFO]: <MrAzn> bronze?!
+[17:40:03] [Server thread/INFO]: <MrAzn> wow wow wowza!
+[17:40:13] [Server thread/INFO]: <MrAzn> thanks
+[17:40:18] [Server thread/INFO]: <PlayboiJudy> uh
+[17:40:23] [Server thread/INFO]: <MrAzn> you should
+[17:40:25] [Server thread/INFO]: <MrAzn> spam redstone on it
+[17:40:26] [Server thread/INFO]: <MrAzn> 50
+[17:40:31] [Server thread/INFO]: <PlayboiJudy> what does that do
+[17:40:34] [Server thread/INFO]: <MrAzn> mining speed
+[17:40:36] [Server thread/INFO]: <MrAzn> haste
+[17:41:14] [Server thread/INFO]: <MrAzn> where was the horses again?
+[17:41:17] [Server thread/INFO]: <MrAzn> my horse died
+[17:41:20] [Server thread/INFO]: <PlayboiJudy> woah it doesnt eat the modifier count
+[17:41:27] [Server thread/INFO]: <MrAzn> ya cause it counts as a single modifier
+[17:41:29] [Server thread/INFO]: <MrAzn> you're just leveling it up
+[17:41:38] [Server thread/INFO]: <PlayboiJudy> i dont wanna use all the redstone tho
+[17:41:50] [Server thread/INFO]: <MrAzn> we have a redstone ore so we can always find more
+[17:41:54] [Server thread/INFO]: <MrAzn> makes it more convenient to mine
+[17:45:52] [Server thread/INFO]: <MrAzn> horses where?
+[17:49:50] [Server thread/INFO]: <PlayboiJudy> JD
+[17:50:00] [Server thread/INFO]: <MrAzn> yes
+[17:50:06] [Server thread/INFO]: <PlayboiJudy> i have a gift for you
+[17:50:16] [Server thread/INFO]: <MrAzn> Horses?
+[17:50:19] [Server thread/INFO]: <PlayboiJudy> no
+[17:50:21] [Server thread/INFO]: <PlayboiJudy> follow me
+[17:50:42] [Server thread/INFO]: <PlayboiJudy> JD come
+[17:51:14] [Server thread/INFO]: <PlayboiJudy> cheers
+[17:51:18] [Server thread/INFO]: <MrAzn> cracking a cold one with the boyhs
+[17:51:20] [Server thread/INFO]: <MrAzn> cheers
+[17:51:22] [Server thread/INFO]: <MrAzn> clinkl
+[17:51:31] [Server thread/INFO]: <MrAzn> waaaaaooooh
+[17:51:45] [Server thread/INFO]: <MrAzn> this shit is actually fucking me up LOL
+[17:51:52] [Server thread/INFO]: <PlayboiJudy> i didnt get any effects
+[17:51:57] [Server thread/INFO]: <MrAzn> I got nausea
+[17:52:04] [Server thread/INFO]: <PlayboiJudy> i think you had too much
+[17:52:17] [Server thread/INFO]: <MrAzn> I need to make a brewery
+[17:52:19] [Server thread/INFO]: <MrAzn> but its expensive
+[17:52:44] [Server thread/INFO]: <MrAzn> ty
+[17:53:08] [Server thread/INFO]: <MrAzn> btw
+[17:53:14] [Server thread/INFO]: <MrAzn> harvest these soybeans from time to time
+[17:53:18] [Server thread/INFO]: <MrAzn> they make tofu which is a meat substitute
+[17:53:33] [Server thread/INFO]: <PlayboiJudy> got it
+[17:53:49] [Server thread/INFO]: <MrAzn> Did that complete?
+[17:53:54] [Server thread/INFO]: <PlayboiJudy> what
+[17:53:55] [Server thread/INFO]: <MrAzn> any quiest?
+[17:54:08] [Server thread/INFO]: <PlayboiJudy> i did the scythe a while ago jd
+[17:54:16] [Server thread/INFO]: <MrAzn> oh okai
+[17:57:27] [Server thread/INFO]: <PlayboiJudy> do you have two diamonds
+[17:57:35] [Server thread/INFO]: <MrAzn> No I gave you my diamond
+[17:57:50] [Server thread/INFO]: <PlayboiJudy> if i get two diamonds we will never need a mortar ever again
+[17:57:53] [Server thread/INFO]: <PlayboiJudy> i can make a macerator
+[17:58:03] [Server thread/INFO]: <MrAzn> Ye that's what I was looking at
+[17:58:06] [Server thread/INFO]: <MrAzn> You have one diamond?
+[17:58:10] [Server thread/INFO]: <PlayboiJudy> nah
+[17:58:13] [Server thread/INFO]: <MrAzn> If you find two stainless steel ingots
+[17:58:19] [Server thread/INFO]: <MrAzn> I would likes please, I can make an infinite mortar
+[17:58:34] [Server thread/INFO]: <MrAzn> only for foods stuff though
+[17:59:58] [Server thread/INFO]: <MrAzn> Where are them horses nathan, the desert waypoint
+[18:00:32] [Server thread/INFO]: <MrAzn> poggy licious
+[18:02:58] [Server thread/INFO]: <MrAzn> snowball?????
+[18:03:04] [Server thread/INFO]: <MrAzn> wait before you use em all up
+[18:03:04] [Server thread/INFO]: <PlayboiJudy> snow gollem
+[18:03:06] [Server thread/INFO]: <PlayboiJudy> quest
+[18:03:07] [Server thread/INFO]: <MrAzn> nice
+[18:04:43] [Server thread/INFO]: <MrAzn> chicken
+[18:05:03] [Server thread/INFO]: <MrAzn> dim sum is made with chestnut???
+[18:06:48] [Server thread/INFO]: <MrAzn> we actually dont have sugar cane
+[18:06:51] [Server thread/INFO]: <MrAzn> that is insanos
+[18:07:06] [Server thread/INFO]: <PlayboiJudy> how to make wood plate again
+[18:07:15] [Server thread/INFO]: <MrAzn> knife wood
+[18:07:19] [Server thread/INFO]: <MrAzn> knife on top plank on bottom
+[18:07:25] [Server thread/INFO]: <MrAzn> a wood bowl right?
+[18:07:28] [Server thread/INFO]: <MrAzn> I dont know what wood plate is
+[18:07:48] [Server thread/INFO]: <PlayboiJudy> no a plate
+[18:07:50] [Server thread/INFO]: <PlayboiJudy> wood plate
+[18:07:54] [Server thread/INFO]: <MrAzn> dont know
+[18:14:33] [Server thread/INFO]: <PlayboiJudy> JD
+[18:14:39] [Server thread/INFO]: <MrAzn> yes
+[18:14:43] [Server thread/INFO]: <PlayboiJudy> come to basement
+[18:14:51] [Server thread/INFO]: <MrAzn> I is far rn
+[18:14:54] [Server thread/INFO]: <PlayboiJudy> bruh
+[18:15:53] [Server thread/INFO]: <MrAzn> do do donkeaai
+[18:16:37] [Server thread/INFO]: <MrAzn> dooonkaaae
+[18:19:42] [Server thread/INFO]: <PlayboiJudy> JD
+[18:20:26] [Server thread/INFO]: <PlayboiJudy> checklist
+[18:20:32] [Server thread/INFO]: <PlayboiJudy> inventory stock
+[18:20:38] [Server thread/INFO]: <PlayboiJudy> everything we own is in that book
+[18:20:46] [Server thread/INFO]: <MrAzn> Whats %material
+[18:20:53] [Server thread/INFO]: <PlayboiJudy> idk
+[18:20:59] [Server thread/INFO]: <PlayboiJudy> but thats a full inventory of our stuff
+[18:21:08] [Server thread/INFO]: <PlayboiJudy> and the checklist is there if you want it
+[18:21:11] [Server thread/INFO]: <MrAzn> :)
+[18:21:24] [Server thread/INFO]: <PlayboiJudy> yummy
+[18:22:00] [Server thread/INFO]: MrAzn lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[18:22:00] [Server thread/INFO]: MrAzn left the game
+[18:29:33] [User Authenticator #5/INFO]: UUID of player MrAzn is 2f955fb6-7475-413b-8849-305d42e5f115
+[18:29:34] [Server thread/INFO]: MrAzn[/84.17.44.210:41334] logged in with entity id 370035 at (126.89644864498842, 70.0, -1579.6963513995943)
+[18:29:34] [Server thread/INFO]: MrAzn joined the game
+[18:30:57] [Server thread/INFO]: <PlayboiJudy> making a steam hammer rn
+[18:31:04] [Server thread/INFO]: <PlayboiJudy> we might never need a hammer
+[18:31:30] [Server thread/INFO]: <MrAzn> forge hammer?
+[18:31:38] [Server thread/INFO]: <PlayboiJudy> ye
+[18:31:43] [Server thread/INFO]: <MrAzn> wow wow wowza!
+[18:32:34] [Server thread/INFO]: <MrAzn> it looks like it requires one less ingot for 2 pltes
+[18:33:36] [Server thread/INFO]: <PlayboiJudy> wowwwww
+[18:33:39] [Server thread/INFO]: <PlayboiJudy> this is so nice
+[18:33:45] [Server thread/INFO]: <PlayboiJudy> forge hammer pog
+[18:34:21] [Server thread/INFO]: <PlayboiJudy> JD
+[18:34:23] [Server thread/INFO]: <MrAzn> we're getting to the point where we can automize most things now :3
+[18:34:26] [Server thread/INFO]: <PlayboiJudy> CHECK IT OUT
+[18:34:30] [Server thread/INFO]: <PlayboiJudy> WATCH THIS
+[18:35:16] [Server thread/INFO]: <PlayboiJudy> JD
+[18:35:22] [Server thread/INFO]: <PlayboiJudy> SO HYPE CHECK IT OUT
+[18:35:24] [Server thread/INFO]: <PlayboiJudy> OMG
+[18:35:56] [Server thread/INFO]: <PlayboiJudy> JD
+[18:36:10] [Server thread/INFO]: <MrAzn> Uh
+[18:36:10] [Server thread/INFO]: <PlayboiJudy> TRASH
+[18:36:13] [Server thread/INFO]: <MrAzn> We already have a trash can option
+[18:36:15] [Server thread/INFO]: <MrAzn> in the inventory
+[18:36:16] [Server thread/INFO]: <PlayboiJudy> i know
+[18:36:19] [Server thread/INFO]: <PlayboiJudy> but look
+[18:36:27] [Server thread/INFO]: <PlayboiJudy> wow!!!
+[18:36:29] [Server thread/INFO]: <MrAzn> where's it go
+[18:36:40] [Server thread/INFO]: <PlayboiJudy> thats the hammer
+[18:36:47] [Server thread/INFO]: <PlayboiJudy> no more hammers for us
+[18:36:55] [Server thread/INFO]: <MrAzn> You used 12 ingots
+[18:37:01] [Server thread/INFO]: <MrAzn> for the trash can lol
+[18:37:11] [Server thread/INFO]: <PlayboiJudy> maybe
+[18:37:29] [Server thread/INFO]: <MrAzn> OR!!!
+[18:37:35] [Server thread/INFO]: <MrAzn> Maybe only 8
+[18:37:36] [Server thread/INFO]: <MrAzn> :3
+[18:37:42] [Server thread/INFO]: <MrAzn> cause of the hammer
+[18:37:54] [User Authenticator #6/INFO]: UUID of player YungDeliverer is b352acc3-397d-49db-b32f-6686a1dc58dd
+[18:37:56] [Server thread/INFO]: YungDeliverer[/12.74.102.107:51723] logged in with entity id 381178 at (827.2116467096816, 95.0, 618.9814034359812)
+[18:37:56] [Server thread/INFO]: YungDeliverer joined the game
+[18:38:08] [Server thread/INFO]: <MrAzn> Erfm
+[18:38:10] [Server thread/INFO]: <MrAzn> This guy
+[18:38:23] [Server thread/INFO]: <YungDeliverer> dont call me this guy
+[18:38:25] [Server thread/INFO]: <YungDeliverer> call me
+[18:38:27] [Server thread/INFO]: <YungDeliverer> mr git
+[18:38:34] [Server thread/INFO]: <MrAzn> LOL
+[18:38:34] [Server thread/INFO]: <PlayboiJudy> sensational
+[18:38:38] [Server thread/INFO]: <YungDeliverer> mr gits bitches
+[18:38:57] [Server thread/INFO]: <YungDeliverer> how do i create my chunk
+[18:39:09] [Server thread/INFO]: <YungDeliverer> mr gits chunks
+[18:39:21] [Server thread/INFO]: <MrAzn> open inventory
+[18:39:45] [Server thread/INFO]: <MrAzn> second icon to the left, on the top row
+[18:40:24] [Server thread/INFO]: <PlayboiJudy> we need to make a bricked blast furnace now
+[18:40:40] [Server thread/INFO]: <MrAzn> Ya I saw that
+[18:40:43] [Server thread/INFO]: <MrAzn> to make steel
+[18:40:47] [Server thread/INFO]: YungDeliverer lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.net.SocketException: Connection reset], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[18:40:47] [Server thread/INFO]: YungDeliverer left the game
+[18:40:57] [Server thread/INFO]: <PlayboiJudy> reward
+[18:41:01] [Server thread/INFO]: <PlayboiJudy> free chests
+[18:42:22] [Server thread/INFO]: <PlayboiJudy> time to collect 1008 clay
+[18:42:29] [User Authenticator #7/INFO]: UUID of player YungDeliverer is b352acc3-397d-49db-b32f-6686a1dc58dd
+[18:42:30] [Server thread/INFO]: YungDeliverer[/76.238.232.7:63779] logged in with entity id 390661 at (863.9642934905032, 70.0, 598.6882722047038)
+[18:42:30] [Server thread/INFO]: YungDeliverer joined the game
+[18:43:12] [Server thread/INFO]: MrAzn lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[18:43:12] [Server thread/INFO]: MrAzn left the game
+[18:43:14] [Server thread/INFO]: PlayboiJudy lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.net.SocketException: Connection reset], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[18:43:14] [Server thread/INFO]: PlayboiJudy left the game
+[18:43:14] [Server thread/INFO]: YungDeliverer lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.net.SocketException: Connection reset], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[18:43:14] [Server thread/INFO]: YungDeliverer left the game
+[18:43:16] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[18:43:17] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[18:43:17] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[18:43:19] [User Authenticator #8/INFO]: UUID of player MrAzn is 2f955fb6-7475-413b-8849-305d42e5f115
+[18:43:20] [Server thread/INFO]: MrAzn[/84.17.44.210:54474] logged in with entity id 392266 at (128.716755884194, 67.0, -1568.646608264775)
+[18:43:20] [Server thread/INFO]: MrAzn joined the game
+[18:43:25] [User Authenticator #9/INFO]: UUID of player PlayboiJudy is 2ba7a5f9-12eb-43e8-a60e-e49f4c384c05
+[18:43:27] [Server thread/INFO]: PlayboiJudy[/68.8.29.226:63884] logged in with entity id 392975 at (150.804235991727, 62.568520478185015, -1512.8427578563335)
+[18:43:27] [Server thread/INFO]: PlayboiJudy joined the game
+[18:43:36] [Server thread/INFO]: <MrAzn> I need to switch off my vpn
+[18:43:44] [Server thread/INFO]: <MrAzn> let me restart server
+[18:43:46] [Server thread/INFO]: MrAzn lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[18:43:46] [Server thread/INFO]: MrAzn left the game
+[18:43:52] [Server thread/INFO]: Stopping the server
+[18:43:52] [Server thread/INFO]: Stopping server
+[18:43:52] [Server thread/INFO]: Saving players
+[18:43:52] [Server thread/INFO]: Saving worlds
+[18:43:52] [Server thread/INFO]: Saving chunks for level 'World'/Overworld
+[18:43:52] [Server thread/INFO]: Saving chunks for level 'World'/Nether
+[18:43:52] [Server thread/INFO]: Saving chunks for level 'World'/Seth
+[18:43:52] [Server thread/INFO]: Saving chunks for level 'World'/Horus
+[18:43:52] [Server thread/INFO]: Saving chunks for level 'World'/Anubis
+[18:43:52] [Server thread/INFO]: Saving chunks for level 'World'/Maahes
+[18:43:52] [Server thread/INFO]: Saving chunks for level 'World'/Neper
+[18:43:52] [Server thread/INFO]: Saving chunks for level 'World'/Miranda
+[18:43:52] [Server thread/INFO]: Saving chunks for level 'World'/T Ceti E
+[18:43:52] [Server thread/INFO]: Saving chunks for level 'World'/Vega B
+[18:43:52] [Server thread/INFO]: Saving chunks for level 'World'/Haumea
+[18:43:52] [Server thread/INFO]: Saving chunks for level 'World'/Barnarda F
+[18:43:52] [Server thread/INFO]: Saving chunks for level 'World'/Barnarda E
+[18:43:52] [Server thread/INFO]: Saving chunks for level 'World'/Outer Lands
+[18:43:52] [Server thread/INFO]: Saving chunks for level 'World'/Saturn
+[18:43:52] [Server thread/INFO]: Saving chunks for level 'World'/Neptune
+[18:43:52] [Server thread/INFO]: Saving chunks for level 'World'/Jupiter
+[18:43:52] [Server thread/INFO]: Saving chunks for level 'World'/Mirror
+[18:43:52] [Server thread/INFO]: Saving chunks for level 'World'/Pocket Plane
+[18:43:52] [Server thread/INFO]: Saving chunks for level 'World'/Ross128b
+[18:43:52] [Server thread/INFO]: Saving chunks for level 'World'/Ross128ba
+[18:43:52] [Server thread/INFO]: Saving chunks for level 'World'/Bedrock
+[18:43:52] [Server thread/INFO]: Saving chunks for level 'World'/Torment
+[18:43:52] [Server thread/INFO]: Saving chunks for level 'World'/Spirit World
+[18:43:52] [Server thread/INFO]: Saving chunks for level 'World'/Uranus
+[18:43:52] [Server thread/INFO]: Saving chunks for level 'World'/The Outer Lands
+[18:43:52] [Server thread/INFO]: Saving chunks for level 'World'/Pluto
+[18:43:52] [Server thread/INFO]: Saving chunks for level 'World'/Triton
+[18:43:52] [Server thread/INFO]: Saving chunks for level 'World'/Proteus
+[18:43:52] [Server thread/INFO]: Saving chunks for level 'World'/Oberon
+[18:43:52] [Server thread/INFO]: Saving chunks for level 'World'/Callisto
+[18:43:52] [Server thread/INFO]: Saving chunks for level 'World'/Titan
+[18:43:52] [Server thread/INFO]: Saving chunks for level 'World'/Ganymede
+[18:43:52] [Server thread/INFO]: Saving chunks for level 'World'/Ceres
+[18:43:52] [Server thread/INFO]: Saving chunks for level 'World'/Enceladus
+[18:43:52] [Server thread/INFO]: Saving chunks for level 'World'/Deimos
+[18:43:52] [Server thread/INFO]: Saving chunks for level 'World'/Venus
+[18:43:52] [Server thread/INFO]: Saving chunks for level 'World'/Phobos
+[18:43:52] [Server thread/INFO]: Saving chunks for level 'World'/Mercury
+[18:43:52] [Server thread/INFO]: Saving chunks for level 'World'/dimensionDarkWorld
+[18:43:52] [Server thread/INFO]: Saving chunks for level 'World'/Io
+[18:43:52] [Server thread/INFO]: Saving chunks for level 'World'/Europa
+[18:43:52] [Server thread/INFO]: Saving chunks for level 'World'/Kuiper Belt
+[18:43:52] [Server thread/INFO]: Saving chunks for level 'World'/Barnarda C
+[18:43:52] [Server thread/INFO]: Saving chunks for level 'World'/α Centauri Bb
+[18:43:52] [Server thread/INFO]: Saving chunks for level 'World'/Asteroids
+[18:43:52] [Server thread/INFO]: Saving chunks for level 'World'/Mars
+[18:43:52] [Server thread/INFO]: Saving chunks for level 'World'/Moon
+[18:43:52] [Server thread/INFO]: Saving chunks for level 'World'/Makemake
+[18:43:52] [Server thread/INFO]: Saving chunks for level 'World'/The Last Millenium
+[18:43:52] [Server thread/INFO]: Saving chunks for level 'World'/Twilight Forest
+[18:43:52] [Server thread/INFO]: Saving chunks for level 'World'/Underdark
+[18:43:52] [Server thread/INFO]: Saving chunks for level 'World'/SpectreWorld
+[18:43:52] [Server thread/INFO]: Saving chunks for level 'World'/Mehen Belt
