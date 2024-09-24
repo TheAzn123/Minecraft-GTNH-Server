@@ -1272,7 +1272,7 @@
 					"userProgress:9": {
 						"0:10": {
 							"data:11": [
-								0,
+								8,
 								8,
 								0,
 								8
@@ -30080,9 +30080,9 @@
 			"questIDHigh:4": 0,
 			"completed:9": {
 				"0:10": {
-					"claimed:1": 0,
+					"claimed:1": 1,
 					"uuid:8": "446ff6d9-7904-43f6-a04b-d43736188c4a",
-					"timestamp:4": 1726790490054
+					"timestamp:4": 1727149672741
 				}
 			},
 			"questIDLow:4": 480,
@@ -44684,9 +44684,9 @@
 			"questIDHigh:4": 0,
 			"completed:9": {
 				"0:10": {
-					"claimed:1": 0,
+					"claimed:1": 1,
 					"uuid:8": "446ff6d9-7904-43f6-a04b-d43736188c4a",
-					"timestamp:4": 1726796192138
+					"timestamp:4": 1727149664739
 				}
 			},
 			"questIDLow:4": 825,
